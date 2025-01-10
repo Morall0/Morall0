@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi everyone!  I'm Morallo 🌊 🌕
 
-<!--
-**Morall0/Morall0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Morall0">
+  <img align="right" height=250 src="https://avatars.githubusercontent.com/u/83356037?v=4" />
+</a>
 
-Here are some ideas to get you started:
+- Computer Engineering student    :computer:
+- Linux User    :penguin:
+- Casual gamer    :video_game:
+- Guitarist for hobby    :guitar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm interested in...**     :thinking:
+- Web dev    🌎
+- AI    ✨
+- Cyber Security    🛡️ ⚔️
+
+## Technologies I'm learning
+[![My Skills](https://skillicons.dev/icons?i=linux,c,git,github,vim,html,javascript,css,php,mysql,nodejs,angular,mongodb,firebase,svelte,java,python,bash,obsidian,vscode,docker,md,latex&perline=6)](https://skillicons.dev)
+
+## Fun stats...   👓
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morall0&hide=scss,css,less&langs_count=8&theme=onedark&hide_border=true&card_width=320" />
+</a>
+
+<p align="center">
+  <img src="gif/bye.gif"  width="460" />
+</p> 
