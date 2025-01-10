@@ -22,6 +22,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morall0&hide=scss,css,less&langs_count=8&theme=onedark&hide_border=true&card_width=320" />
 </a>
 
+---
+
 <p align="center">
   <img src="gif/bye_vim.gif"  width="460" />
 </p> 
