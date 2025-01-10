@@ -23,5 +23,5 @@
 </a>
 
 <p align="center">
-  <img src="gif/bye.gif"  width="460" />
+  <img src="gif/bye_vim.gif"  width="460" />
 </p> 
